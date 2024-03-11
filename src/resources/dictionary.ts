@@ -2627,6 +2627,17 @@ const childrenEnglish: DictionaryResource[] = [
 // 编程字典
 const programming: DictionaryResource[] = [
   {
+    id: 'custom',
+    name: 'Custom Dict',
+    description: '自定义词典',
+    category: '自定义词典',
+    tags: ['通用'],
+    url: '/dicts/custom.json',
+    length: 19,
+    language: 'code',
+    languageCategory: 'code',
+  },
+  {
     id: 'coder',
     name: 'Coder Dict',
     description: '程序员常见单词词库',

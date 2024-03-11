@@ -1,0 +1,205 @@
+[
+    {
+        "name": "certificate",
+        "trans": [
+            "n. 证书"
+        ],
+        "ukphone": "səˈtɪfɪkət"
+    },
+    {
+        "name": "organization",
+        "trans": [
+            "n. 组织"
+        ],
+        "ukphone": "ˌɔːgənaɪˈzeɪʃn"
+    },
+    {
+        "name": "wildcard",
+        "trans": [
+            "n. 通配符"
+        ],
+        "ukphone": "ˈwaɪldkɑːd"
+    },
+    {
+        "name": "encrypt",
+        "trans": [
+            "v. 加密"
+        ],
+        "ukphone": "ɪnˈkrɪpt"
+    },
+    {
+        "name": "decrypt",
+        "trans": [
+            "v. 解密"
+        ],
+        "ukphone": "diːˈkrɪpt"
+    },
+    {
+        "name": "protocol",
+        "trans": [
+            "n. 协议"
+        ],
+        "ukphone": "ˈprəʊtəkɒl"
+    },
+    {
+        "name": "support",
+        "trans": [
+            "v. 支持"
+        ],
+        "ukphone": "səˈpɔːt"
+    },
+    {
+        "name": "probably",
+        "trans": [
+            "adv. 可能"
+        ],
+        "ukphone": "ˈprɒbəbli"
+    },
+    {
+        "name": "automatically",
+        "trans": [
+            "adv. 自动地"
+        ],
+        "ukphone": "ˌɔːtəˈmætɪkli"
+    },
+    {
+        "name": "reverse",
+        "trans": [
+            "n. 反转"
+        ],
+        "ukphone": "rɪˈvɜːs"
+    },
+    {
+        "name": "through",
+        "trans": [
+            "prep. 通过"
+        ],
+        "ukphone": "θruː"
+    },
+    {
+        "name": "January",
+        "trans": [
+            "adj. 一月"
+        ],
+        "ukphone": "ˈdʒæn.ju.er.i"
+    },
+    {
+        "name": "February",
+        "trans": [
+            "adj. 二月"
+        ],
+        "ukphone": "ˈfeb.ruː.er.i"
+    },
+    {
+        "name": "March",
+        "trans": [
+            "adj. 三月"
+        ],
+        "ukphone": "mɑːrtʃ"
+    },
+    {
+        "name": "April",
+        "trans": [
+            "adj. 四月"
+        ],
+        "ukphone": "ˈeɪ.prəl"
+    },
+    {
+        "name": "May",
+        "trans": [
+            "adj. 五月"
+        ],
+        "ukphone": "meɪ"
+    },
+    {
+        "name": "June",
+        "trans": [
+            "adj. 六月"
+        ],
+        "ukphone": "dʒuːn"
+    },
+    {
+        "name": "July",
+        "trans": [
+            "adj. 七月"
+        ],
+        "ukphone": "dʒʊˈlaɪ"
+    },
+    {
+        "name": "August",
+        "trans": [
+            "adj. 八月"
+        ],
+        "ukphone": "ɔːˈɡʌst"
+    },
+    {
+        "name": "September",
+        "trans": [
+            "adj. 九月"
+        ],
+        "ukphone": "sɛpˈtɛmbər"
+    },
+    {
+        "name": "October",
+        "trans": [
+            "adj. 十月"
+        ],
+        "ukphone": "ɒkˈtoʊbər"
+    },
+    {
+        "name": "November",
+        "trans": [
+            "adj. 十一月"
+        ],
+        "ukphone": "noʊˈvɛmbər"
+    },
+    {
+        "name": "December",
+        "trans": [
+            "adj. 十二月"
+        ],
+        "ukphone": "dɪˈsɛmbər"
+    },
+    {
+        "name": "Monday",
+        "trans": [
+            "n. 星期一"
+        ]
+    },
+    {
+        "name": "Tuesday",
+        "trans": [
+            "n. 星期二"
+        ]
+    },
+    {
+        "name": "Wednesday",
+        "trans": [
+            "n. 星期三"
+        ]
+    },
+    {
+        "name": "Thursday",
+        "trans": [
+            "n. 星期四"
+        ]
+    },
+    {
+        "name": "Friday",
+        "trans": [
+            "n. 星期五"
+        ]
+    },
+    {
+        "name": "Saturday",
+        "trans": [
+            "n. 星期六"
+        ]
+    },
+    {
+        "name": "Sunday",
+        "trans": [
+            "n. 星期日"
+        ]
+    }
+]
