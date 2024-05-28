@@ -2733,7 +2733,7 @@ const programming: DictionaryResource[] = [
     category: '自定义词典',
     tags: ['通用'],
     url: '/dicts/custom.json',
-    length: 19,
+    length: 30,
     language: 'code',
     languageCategory: 'code',
   },
