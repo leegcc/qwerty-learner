@@ -209,5 +209,12 @@
             "n. 检测"
         ],
         "ukphone": "dɪˈtɛkʃən"
+    },
+    {
+        "name": "tutorial",
+        "trans": [
+            "n. 教程"
+        ],
+        "ukphone": "tuːˈtɔːriəl"
     }
 ]
