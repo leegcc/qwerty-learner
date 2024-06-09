@@ -237,5 +237,12 @@
             "n. 协程"
         ],
         "ukphone": "ɡəʊˈruːtiːnz"
+    },
+    {
+        "name": "channels",
+        "trans": [
+            "n. 通道"
+        ],
+        "ukphone": "ˈtʃænəlz"
     }
 ]
