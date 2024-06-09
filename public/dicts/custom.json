@@ -230,5 +230,12 @@
             "n. 泛型"
         ],
         "ukphone": "dʒəˈnerɪks"
+    },
+    {
+        "name": "goroutines",
+        "trans": [
+            "n. 协程"
+        ],
+        "ukphone": "ɡəʊˈruːtiːnz"
     }
 ]
