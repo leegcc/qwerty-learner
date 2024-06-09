@@ -223,5 +223,12 @@
             "n. 祝贺"
         ],
         "ukphone": "kənˌɡrætʃuˈleɪʃənz"
+    },
+    {
+        "name": "generics",
+        "trans": [
+            "n. 泛型"
+        ],
+        "ukphone": "dʒəˈnerɪks"
     }
 ]
