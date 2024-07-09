@@ -244,5 +244,19 @@
             "n. 通道"
         ],
         "ukphone": "ˈtʃænəlz"
+    },
+    {
+        "name": "recursion",
+        "trans": [
+            "n. 递归"
+        ],
+        "ukphone": "rɪˈkɜːrʒən"
+    },
+    {
+        "name": "recursive",
+        "trans": [
+            "adj. 递归的"
+        ],
+        "ukphone": "rɪˈkɜːrsɪv"
     }
 ]
