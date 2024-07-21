@@ -272,5 +272,19 @@
             "adj. 并行的"
         ],
         "ukphone": "ˈpærəlel"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "n. 行为"
+        ],
+        "ukphone": "bɪˈheɪvjər"
+    },
+    {
+        "name": "terminals",
+        "trans": [
+            "n. 终端"
+        ],
+        "ukphone": "ˈtɜːrmɪnəlz"
     }
 ]
