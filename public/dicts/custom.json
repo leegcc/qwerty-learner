@@ -1,5 +1,28 @@
 [
     {
+        "name": "behavior",
+        "trans": [
+            "n. 行为"
+        ],
+        "ukphone": "bɪˈheɪvjər"
+    },
+    {
+        "name": "terminals",
+        "trans": [
+            "n. 终端"
+        ],
+        "ukphone": "ˈtɜːrmɪnəlz"
+    },
+    {
+        "name": "manifest",
+        "trans": [
+            "n. 清单，载货单",
+            "v. 显示，证明",
+            "adj. 明显的，显而易见的"
+        ],
+        "ukphone": "ˈmænɪfest"
+    },
+    {
         "name": "certificate",
         "trans": [
             "n. 证书"
@@ -272,28 +295,5 @@
             "adj. 并行的"
         ],
         "ukphone": "ˈpærəlel"
-    },
-    {
-        "name": "behavior",
-        "trans": [
-            "n. 行为"
-        ],
-        "ukphone": "bɪˈheɪvjər"
-    },
-    {
-        "name": "terminals",
-        "trans": [
-            "n. 终端"
-        ],
-        "ukphone": "ˈtɜːrmɪnəlz"
-    },
-    {
-        "name": "manifest",
-        "trans": [
-            "n. 清单，载货单",
-            "v. 显示，证明",
-            "adj. 明显的，显而易见的"
-        ],
-        "ukphone": "ˈmænɪfest"
     }
 ]
