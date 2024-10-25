@@ -1,5 +1,14 @@
 [
     {
+        "name": "initialize",
+        "trans": [
+            "v. 初始化，开始",
+            "使初始化"
+        ],
+        "ukphone": "ɪˈnɪʃəlaɪz",
+        "description": "这个词可以拆分为initial（初始的）+ ize（使...化），表示'使某事物处于初始状态'。在计算机领域经常使用，比如'initialize a variable'（初始化变量）。记忆时可以联想到每次开机时电脑都需要进行初始化过程。"
+    },
+    {
         "name": "premium",
         "trans": [
             "n. 保险费，额外费用",
